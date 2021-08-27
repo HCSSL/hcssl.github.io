@@ -58,7 +58,7 @@
   .header ul {
     font-size: 1.25rem;
     font-weight: 300;
-    text-transform: lowercase;
+    text-transform: capitalize ;
   }
   
   .main {
@@ -125,4 +125,3 @@
       margin-right: 10px;
     }
   }
-  
