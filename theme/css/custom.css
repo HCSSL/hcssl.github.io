@@ -38,3 +38,14 @@ body {
    p.text-muted {
    /*color:#CCC !important*/
    }
+
+   .page-holder {
+    min-height: 50vh;
+    }
+
+    .bg-cover {
+    background-size: cover !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    }
