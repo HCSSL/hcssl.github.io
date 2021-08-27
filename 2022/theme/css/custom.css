@@ -49,3 +49,18 @@ body {
     background-repeat: no-repeat;
     position: relative;
     }
+
+    #nav {
+    width:950px;
+    margin:0 auto;
+    list-style:none;
+    }
+    #nav li {
+    float:left;
+    }
+    #nav a {
+    display:block;
+    text-align:center;
+    /* fixed width */ width:150px; 
+    text-decoration:none; 
+    }
