@@ -61,6 +61,6 @@ body {
     #nav a {
     display:block;
     text-align:center;
-    /* fixed width */ width:150px; 
+    width:150px; /* fixed width */
     text-decoration:none; 
     }
