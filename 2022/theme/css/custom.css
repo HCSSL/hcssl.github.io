@@ -40,7 +40,8 @@ body {
    }
 
    .page-holder {
-    min-height: 50vh;
+    min-height: 33vh;
+   /* min-height: 50vh;*/
     }
 
     .bg-cover {
