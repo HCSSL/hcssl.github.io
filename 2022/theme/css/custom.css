@@ -27,12 +27,12 @@ body {
    }
    
    .list-inline-item a:hover{
-   /*color:white;*/
-   color:#22A6c7;
+   /*color:white;*/ 
+   color:#F0C48A;
    text-decoration: none;
    padding-bottom:0.5em;
    border-bottom:3px solid #1372CE;
-   border-bottom:3px solid #22A6c7;
+   border-bottom:3px solid #F0C48A;
    }
    
    p.text-muted {
