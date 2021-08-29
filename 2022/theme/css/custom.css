@@ -28,11 +28,11 @@ body {
    
    .list-inline-item a:hover{
    /*color:white;*/ 
-   color:#F0C48A;
+   color:#E8A44A;
    text-decoration: none;
    padding-bottom:0.5em;
-   border-bottom:3px solid #1372CE;
-   border-bottom:3px solid #F0C48A;
+/*   border-bottom:3px solid #F0C48A;
+*/   border-bottom:3px solid #E8A44A;
    }
    
    p.text-muted {
